@@ -1,0 +1,21 @@
+
+Kjavascript:S1128"(Remove this unused import of 'IMessage'.(´…İî8éıùİ1
+Wjavascript:S6774p"/'currentMessage' is missing in props validation(’­öıÿÿÿÿ8éıùİ1
+~javascript:S6582q"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(´ÕÏî8éıùİ1
+Wjavascript:S6774q"4'currentMessage.file' is missing in props validation(´ÕÏî8éıùİ1
+Wjavascript:S6774q"4'currentMessage.file' is missing in props validation(´ÕÏî8êıùİ1
+[javascript:S6774q"8'currentMessage.file.url' is missing in props validation(´ÕÏî8êıùİ1
+Rjavascript:S6774v"/'currentMessage' is missing in props validation(€ğÕ¹8êıùİ1
+Wjavascript:S6774v"4'currentMessage.user' is missing in props validation(€ğÕ¹8êıùİ1
+[javascript:S6774v"8'currentMessage.user._id' is missing in props validation(€ğÕ¹8êıùİ1
+Rjavascript:S6774w"/'currentMessage' is missing in props validation(Çøá8êıùİ1
+Wjavascript:S6774w"4'currentMessage.user' is missing in props validation(Çøá8êıùİ1
+[javascript:S6774w"8'currentMessage.user._id' is missing in props validation(Çøá8êıùİ1
+Rjavascript:S6774x"/'currentMessage' is missing in props validation(€Ä…©8êıùİ1
+Wjavascript:S6774x"4'currentMessage.user' is missing in props validation(€Ä…©8êıùİ1
+[javascript:S6774x"8'currentMessage.user._id' is missing in props validation(€Ä…©8êıùİ1
+\javascript:S6774~"4'currentMessage.file' is missing in props validation(ÆÙ¤şÿÿÿÿ8êıùİ1
+`javascript:S6774~"8'currentMessage.file.url' is missing in props validation(ÆÙ¤şÿÿÿÿ8êıùİ1
+]javascript:S6774ˆ"4'currentMessage.user' is missing in props validation(šûøÿÿÿÿ8êıùİ1
+ajavascript:S6774ˆ"8'currentMessage.user._id' is missing in props validation(šûøÿÿÿÿ8êıùİ1
+]javascript:S6774Š"4'currentMessage.text' is missing in props validation(Âª©Ûüÿÿÿÿ8ëıùİ1
